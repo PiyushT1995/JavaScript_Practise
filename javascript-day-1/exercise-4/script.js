@@ -6,8 +6,12 @@ const object = {
     name:"Piyush",
     age:32
 }
+const nothing = null;
+const array = [1,2,3,4];
 console.log(string,typeof string);
 console.log(number,typeof number);
 console.log(isBoolean,typeof isBoolean);
 console.log(x,typeof x);
 console.log(object,typeof object);
+console.log(nothing,typeof nothing);
+console.log(array,typeof array);
