@@ -1,0 +1,10 @@
+let favoriteMovie = "Intersteller";
+const releaseYear = 2014;
+let isHitMovie = true;
+console.log(favoriteMovie);
+console.log(releaseYear);
+console.log(isHitMovie);
+console.log(typeof favoriteMovie);
+console.log(typeof releaseYear);
+console.log(typeof isHitMovie);
+console.log("My favorite movie is "+favoriteMovie+" released in "+releaseYear);
